@@ -1,2 +1,2 @@
-# spaceCat
-game
+# Nome do jogo:
+SpaceCat :
