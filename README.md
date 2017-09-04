@@ -1,26 +1,25 @@
 # Nome do jogo:
-SpaceCat :the jorel's adventures
+SpaceCat: Jorel's Adventures
 
 # História:
-Jorel é um gato de rua espacial, que foi abandonado por seu dono astronauta logo quando filhote, devido a falta de suprimentos jorel passa muita nescessidade no espaço ,além de ter sido deixado no meio do nada ,jorel tem que encontrar o caminho para uma nave reserva deixada por seu antigo dono para chegar finalmente na terra.
+Jorel é um gato de rua espacial, que foi abandonado por seu dono astronauta logo quando filhote, devido a falta de suprimentos Jorel passa muitas nescessidades no espaço, além de ter sido deixado no meio do nada, ele ainda têm que encontrar o caminho para uma nave reserva deixada por seu antigo dono para poder voltar para a Terra.
 
 # Objetivo:
-O objetivo de jorel é sair do espaço para chegar na nave reserva para, ou seja ele decidiu largar a vida de gato de rua espacial, para virar apenas um gato de rua comum.
-
-Mas para conseguir vencer seus objetivos, ele tem que passar por varias partes estranhas do espaço.
+O objetivo de Jorel é sair do espaço para chegar na nave reserva, ou seja ele decidiu largar a vida de gato de rua espacial, para virar apenas um gato de rua comum.
+Mas para conseguir vencer seus objetivos, ele vai ter que passar por várias partes estranhas e obscuras do espaço.
 
 # Level:
-cada fase do jogo tem sua própria dificuldade,e em todas as fases existem 3 novelos de lã , que serão usadas como moeda de troca com seu colega gato mercador.
+Cada fase do jogo tem sua própria dificuldade, e em todas as fases existem 3 novelos de lã, que serão usadas como moeda de troca com seu colega gato mercador.
 
-inicialmente jorel terá apenas 3 vidas , mas com o decorrer do jogo e dependendo da quantidade de novelos de lã que conseguir pegar , ele poderá comprar até 7 corações . cada coração a mais  custará 6 novelos de lã com seu colega mercador.
+Inicialmente Jorel terá apenas 3 vidas, mas com o decorrer do jogo e dependendo da quantidade de novelos de lã que conseguir pegar, ele poderá comprar até 7 corações. Cada coração a mais custará 6 novelos de lã com seu colega mercador.
 
 # Sistema de vidas e dificuldades:
-Como ja foi dito antes , o jorel terá apenas 3 corações inicialmente , e perderá um coração cada vez que encostar é alguma armadilha no meio da fase.
+Como ja foi dito antes, o Jorel terá apenas 3 corações inicialmente, e perderá um coração cada vez que encostar em alguma armadilha no meio da fase.
 
-existem 4 tipos de armadilhas , as serras, os espinhos, os meteoros , e os lasers.
+Existem 4 tipos de armadilhas: As serras, os espinhos, os meteoros, e os lasers.
 
 # Fim de jogo:
 Existem duas maneiras de ser perder nesse jogo: 
 1-Perdendo todos os corações.
-2-quando o oxigênio de jorel chegar a zero :
-    Em cada fase jorel terá uma quantidade determinada de oxigênio para chegar até a próxima etapa.
+2-O oxigênio de Jorel chegando a zero:
+    Em cada fase Jorel terá uma quantidade determinada de oxigênio para chegar até a próxima etapa.
