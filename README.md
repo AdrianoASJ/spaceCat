@@ -18,3 +18,9 @@ inicialmente jorel terá apenas 3 vidas , mas com o decorrer do jogo e dependend
 Como ja foi dito antes , o jorel terá apenas 3 corações inicialmente , e perderá um coração cada vez que encostar é alguma armadilha no meio da fase.
 
 existem 4 tipos de armadilhas , as serras, os espinhos, os meteoros , e os lasers.
+
+# Fim de jogo:
+Existem duas maneiras de ser perder nesse jogo: 
+1-Perdendo todos os corações.
+2-quando o oxigênio de jorel chegar a zero :
+    Em cada fase jorel terá uma quantidade determinada de oxigênio para chegar até a próxima etapa.
